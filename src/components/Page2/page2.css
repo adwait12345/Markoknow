@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.wrapper h1{
+    margin: 0;
+}
+.wrapper h3{
+    margin: 0;
+    color: #737373;
+}
